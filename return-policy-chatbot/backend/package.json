@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@langchain/community": "^0.3.45",
+    "@langchain/google-genai": "^0.0.10",
+    "@supabase/supabase-js": "^2.50.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "langchain": "^0.3.27",
+    "pdf-parse": "^1.1.1"
+  }
+}
